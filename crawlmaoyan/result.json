@@ -1,0 +1,702 @@
+[
+  {
+    "img": "https://p0.meituan.net/movie/414176cfa3fea8bed9b579e9f42766b9686649.jpg@160w_220h_1e_1c",
+    "name": "我不是药神",
+    "star": "主演：徐峥,周一围,王传君",
+    "releasetime": "上映时间：2018-07-05",
+    "score": "9.6"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/8112a8345d7f1d807d026282f2371008602126.jpg@160w_220h_1e_1c",
+    "name": "肖申克的救赎",
+    "star": "主演：蒂姆·罗宾斯,摩根·弗里曼,鲍勃·冈顿",
+    "releasetime": "上映时间：1994-09-10(加拿大)",
+    "score": "9.5"
+  },
+  {
+    "img": "https://p1.meituan.net/movie/c9b280de01549fcb71913edec05880585769972.jpg@160w_220h_1e_1c",
+    "name": "绿皮书",
+    "star": "主演：维果·莫腾森,马赫沙拉·阿里,琳达·卡德里尼",
+    "releasetime": "上映时间：2019-03-01",
+    "score": "9.5"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/609e45bd40346eb8b927381be8fb27a61760914.jpg@160w_220h_1e_1c",
+    "name": "海上钢琴师",
+    "star": "主演：蒂姆·罗斯,比尔·努恩 ,克兰伦斯·威廉姆斯三世",
+    "releasetime": "上映时间：2019-11-15",
+    "score": "9.3"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/61fea77024f83b3700603f6af93bf690585789.jpg@160w_220h_1e_1c",
+    "name": "霸王别姬",
+    "star": "主演：张国荣,张丰毅,巩俐",
+    "releasetime": "上映时间：1993-07-26",
+    "score": "9.4"
+  },
+  {
+    "img": "https://p1.meituan.net/movie/ac8f0004928fbce5a038a007b7c73cec746794.jpg@160w_220h_1e_1c",
+    "name": "小偷家族",
+    "star": "主演：中川雅也,安藤樱,松冈茉优",
+    "releasetime": "上映时间：2018-08-03",
+    "score": "8.1"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/005955214d5b3e50c910d7a511b0cb571445301.jpg@160w_220h_1e_1c",
+    "name": "哪吒之魔童降世",
+    "star": "主演：吕艳婷,囧森瑟夫,瀚墨",
+    "releasetime": "上映时间：2019-07-26",
+    "score": "9.6"
+  },
+  {
+    "img": "https://p1.meituan.net/movie/580d81a2c78bf204f45323ddb4244b6c6821175.jpg@160w_220h_1e_1c",
+    "name": "美丽人生",
+    "star": "主演：罗伯托·贝尼尼,朱斯蒂诺·杜拉诺,赛尔乔·比尼·布斯特里克",
+    "releasetime": "上映时间：2020-01-03",
+    "score": "9.3"
+  },
+  {
+    "img": "https://p1.meituan.net/movie/6bea9af4524dfbd0b668eaa7e187c3df767253.jpg@160w_220h_1e_1c",
+    "name": "这个杀手不太冷",
+    "star": "主演：让·雷诺,加里·奥德曼,娜塔莉·波特曼",
+    "releasetime": "上映时间：1994-09-14(法国)",
+    "score": "9.4"
+  },
+  {
+    "img": "https://p0.meituan.net/moviemachine/c2496a7290a72eac6081321898c347693550574.jpg@160w_220h_1e_1c",
+    "name": "盗梦空间",
+    "star": "主演：莱昂纳多·迪卡普里奥,渡边谦,约瑟夫·高登-莱维特",
+    "releasetime": "上映时间：2010-09-01",
+    "score": "9.0"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/15f1ac49b6d1ff7b71207672993ed6901536456.jpg@160w_220h_1e_1c",
+    "name": "怦然心动",
+    "star": "主演：玛德琳·卡罗尔,卡兰·麦克奥利菲,艾丹•奎因",
+    "releasetime": "上映时间：2010-07-26(美国)",
+    "score": "8.9"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/b41795c4a88479137e40ebdc3d7dc040238291.jpg@160w_220h_1e_1c",
+    "name": "阿甘正传",
+    "star": "主演：汤姆·汉克斯,罗宾·怀特,加里·西尼斯",
+    "releasetime": "上映时间：1994-07-06(美国)",
+    "score": "9.4"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/30b20139e68c46d02e0893277d633b701292458.jpg@160w_220h_1e_1c",
+    "name": "千与千寻",
+    "star": "主演：柊瑠美,周冬雨,入野自由",
+    "releasetime": "上映时间：2019-06-21",
+    "score": "9.3"
+  },
+  {
+    "img": "https://p0.meituan.net/moviemachine/94138dc0290a74b35786b6e3b8ece8607940668.jpg@160w_220h_1e_1c",
+    "name": "星际穿越",
+    "star": "主演：马修·麦康纳,安妮·海瑟薇,杰西卡·查斯坦",
+    "releasetime": "上映时间：2014-11-12",
+    "score": "9.3"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/59c05effc4755c627901fb7e044d071d851055.jpg@160w_220h_1e_1c",
+    "name": "楚门的世界",
+    "star": "主演：金·凯瑞,劳拉·琳妮,诺亚·艾默里奇",
+    "releasetime": "上映时间：1998(罗马尼亚)",
+    "score": "8.9"
+  },
+  {
+    "img": "https://p0.meituan.net/moviemachine/eb5e33480a3d3b0f813673a33eb556381148211.jpg@160w_220h_1e_1c",
+    "name": "触不可及",
+    "star": "主演：弗朗索瓦·克鲁塞,奥玛·希,安娜·勒尼",
+    "releasetime": "上映时间：2011-11-02(法国)",
+    "score": "9.1"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/b0d986a8bf89278afbb19f6abaef70f31206570.jpg@160w_220h_1e_1c",
+    "name": "辛德勒的名单",
+    "star": "主演：连姆·尼森,拉尔夫·费因斯,本·金斯利",
+    "releasetime": "上映时间：1993-11-30(美国)",
+    "score": "9.2"
+  },
+  {
+    "img": "https://p0.meituan.net/moviemachine/8503c98fa2a02df648f6a59448c4c99078837.jpg@160w_220h_1e_1c",
+    "name": "情书",
+    "star": "主演：中山美穗,丰川悦司,酒井美纪",
+    "releasetime": "上映时间：1999-03-01",
+    "score": "8.9"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/f433a705dd26d96e95ba6582ddccf5ad1159253.jpg@160w_220h_1e_1c",
+    "name": "寻梦环游记",
+    "star": "主演：安东尼·冈萨雷斯,本杰明·布拉特,盖尔·加西亚·贝纳尔",
+    "releasetime": "上映时间：2017-11-24",
+    "score": "9.6"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/aeb864fa21d578d845b9cefc056e40cb2874891.jpg@160w_220h_1e_1c",
+    "name": "摔跤吧！爸爸",
+    "star": "主演：阿米尔·汗,沙克希·坦沃,法缇玛·萨那·纱卡",
+    "releasetime": "上映时间：2017-05-05",
+    "score": "9.8"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/cac99bd00d40586dc49746a6ce9d03ff192723.jpg@160w_220h_1e_1c",
+    "name": "少年派的奇幻漂流",
+    "star": "主演：苏拉·沙玛,伊尔凡·可汗,塔布",
+    "releasetime": "上映时间：2012-11-22",
+    "score": "9.0"
+  },
+  {
+    "img": "https://p1.meituan.net/movie/d28b729ffe72353a72d1e7ef8a9b90591544978.jpg@160w_220h_1e_1c",
+    "name": "何以为家",
+    "star": "主演：赞恩·阿尔·拉菲亚,约丹诺斯·希费罗,博鲁瓦蒂夫·特雷杰·班科尔",
+    "releasetime": "上映时间：2019-04-29",
+    "score": "9.3"
+  },
+  {
+    "img": "https://p0.meituan.net/moviemachine/7707dc3478f9ab26871688f4964ae45d6672925.jpg@160w_220h_1e_1c",
+    "name": "小丑",
+    "star": "主演：华金·菲尼克斯,罗伯特·德尼罗,亚历克·鲍德温",
+    "releasetime": "上映时间：2019-10-04(美国)",
+    "score": "8.6"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/04263651e43c11ce538b180988ff0a5e231189.jpg@160w_220h_1e_1c",
+    "name": "忠犬八公的故事",
+    "star": "主演：Forest,理查·基尔,琼·艾伦",
+    "releasetime": "上映时间：2009-06-13(美国)",
+    "score": "9.2"
+  },
+  {
+    "img": "https://p0.meituan.net/moviemachine/e7dd6b1f77fba08c1f20a3b20b156621642576.jpg@160w_220h_1e_1c",
+    "name": "泰坦尼克号",
+    "star": "主演：莱昂纳多·迪卡普里奥,凯特·温丝莱特,比利·赞恩",
+    "releasetime": "上映时间：1998-04-03",
+    "score": "9.4"
+  },
+  {
+    "img": "https://p0.meituan.net/moviemachine/e5daa8748733820faab91102bd0bc4507730353.jpg@160w_220h_1e_1c",
+    "name": "当幸福来敲门",
+    "star": "主演：威尔·史密斯,贾登·史密斯,坦迪·牛顿",
+    "releasetime": "上映时间：2008-01-17",
+    "score": "9.3"
+  },
+  {
+    "img": "https://p0.meituan.net/moviemachine/2d70a04696482606c19ebc6d2e4aaa2d2211906.jpg@160w_220h_1e_1c",
+    "name": "你的名字。",
+    "star": "主演：上白石萌音,佟心竹,神木隆之介",
+    "releasetime": "上映时间：2016-12-02",
+    "score": "9.2"
+  },
+  {
+    "img": "https://p1.meituan.net/movie/ca4a128a5a54d5b5e35ceba622636c831810197.jpg@160w_220h_1e_1c",
+    "name": "三傻大闹宝莱坞",
+    "star": "主演：阿米尔·汗,黄渤,卡琳娜·卡普",
+    "releasetime": "上映时间：2011-12-08",
+    "score": "9.1"
+  },
+  {
+    "img": "https://p1.meituan.net/movie/b5adcadc67ea24afadc66739bdc9abb33432367.jpg@160w_220h_1e_1c",
+    "name": "天堂电影院",
+    "star": "主演：菲利浦·诺瓦雷,雅克·贝汉,马克·莱昂纳蒂",
+    "releasetime": "上映时间：2021-06-11",
+    "score": "9.3"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/70de97ebb6b5251ecb7c3f6d7a782a7f189340.jpg@160w_220h_1e_1c",
+    "name": "放牛班的春天",
+    "star": "主演：热拉尔·朱尼奥,让-巴蒂斯特·莫尼耶,玛丽·布奈尔",
+    "releasetime": "上映时间：2004-10-16",
+    "score": "8.8"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/c304c687e287c7c2f9e22cf78257872d277201.jpg@160w_220h_1e_1c",
+    "name": "龙猫",
+    "star": "主演：秦岚,糸井重里,岛本须美",
+    "releasetime": "上映时间：2018-12-14",
+    "score": "9.2"
+  },
+  {
+    "img": "https://p1.meituan.net/movie/2a0783b4fd95566568f24adfad2181bb5392280.jpg@160w_220h_1e_1c",
+    "name": "熔炉",
+    "star": "主演：孔刘,郑有美,金智英",
+    "releasetime": "上映时间：2011-09-22(韩国)",
+    "score": "8.8"
+  },
+  {
+    "img": "https://p0.meituan.net/mmdb/b032a09e72fa00f2831d5bf426c8cf82219526.jpg@160w_220h_1e_1c",
+    "name": "教父",
+    "star": "主演：马龙·白兰度,阿尔·帕西诺,詹姆斯·肯恩",
+    "releasetime": "上映时间：2015-04-18",
+    "score": "9.3"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/f8f6b8a6158a1a3d2f2ec8a8f024eef5306692.jpg@160w_220h_1e_1c",
+    "name": "看不见的客人",
+    "star": "主演：马里奥·卡萨斯,阿娜·瓦格纳,何塞·科罗纳多",
+    "releasetime": "上映时间：2017-09-15",
+    "score": "9.4"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/52c8c57caeeaacbeaa3d54eec62023fd483970.jpg@160w_220h_1e_1c",
+    "name": "头号玩家(IMAX 3D)",
+    "star": "主演：泰伊·谢里丹,奥利维亚·库克,本·门德尔森",
+    "releasetime": "上映时间：2018-03-30",
+    "score": "9.0"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/5b36b3c840e26e50aa65ea0c164c9903599336.jpg@160w_220h_1e_1c",
+    "name": "被嫌弃的松子的一生",
+    "star": "主演：中谷美纪,永山瑛太,伊势谷友介",
+    "releasetime": "上映时间：2006-05-27(日本)",
+    "score": "8.5"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/8609f509a07d64da4c8bdc58db7a440a369264.jpg@160w_220h_1e_1c",
+    "name": "活着",
+    "star": "主演：葛优,巩俐,牛犇",
+    "releasetime": "上映时间：1994-05-17(法国)",
+    "score": "9.0"
+  },
+  {
+    "img": "https://p1.meituan.net/movie/34d2efaebaa65c92f75ff719314b3015144837.jpg@160w_220h_1e_1c",
+    "name": "三块广告牌",
+    "star": "主演：弗兰西斯·麦克多蒙德,伍迪·哈里森,山姆·洛克威尔",
+    "releasetime": "上映时间：2018-03-02",
+    "score": "8.6"
+  },
+  {
+    "img": "https://p1.meituan.net/movie/9cf8e45d467cc4da1f7e42f2678219ed129962.jpg@160w_220h_1e_1c",
+    "name": "死亡诗社",
+    "star": "主演：罗宾·威廉姆斯,伊桑·霍克,柯特伍德·史密斯",
+    "releasetime": "上映时间：1989-06-02(加拿大)",
+    "score": "8.7"
+  },
+  {
+    "img": "https://p1.meituan.net/movie/0da7ffae67afeb5c63bd2d73efbe664c283994.jpg@160w_220h_1e_1c",
+    "name": "请以你的名字呼唤我",
+    "star": "主演：提莫西·查拉梅,艾米·汉莫,迈克尔·斯图巴",
+    "releasetime": "上映时间：2017-01-22(美国)",
+    "score": "8.0"
+  },
+  {
+    "img": "https://p1.meituan.net/movie/8d7b0b902afd4ec1a3dd7a9c6149463c187734.jpg@160w_220h_1e_1c",
+    "name": "闻香识女人",
+    "star": "主演：阿尔·帕西诺,克里斯·奥唐纳,加布里埃尔·安瓦尔",
+    "releasetime": "上映时间：1992-12-23(美国)",
+    "score": "8.8"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/267dd2483f0fb57081474c00fbea38451415571.jpg@160w_220h_1e_1c",
+    "name": "机器人总动员",
+    "star": "主演：本·贝尔特,艾丽莎·奈特,杰夫·格尔林",
+    "releasetime": "上映时间：2008-06-27(美国)",
+    "score": "9.3"
+  },
+  {
+    "img": "https://p0.meituan.net/moviemachine/92a2d32c3ccfd7f54111b6ae7ff85267256782.webp@160w_220h_1e_1c",
+    "name": "疯狂动物城",
+    "star": "主演：金妮弗·古德温,杰森·贝特曼,伊德瑞斯·艾尔巴",
+    "releasetime": "上映时间：2016-03-04",
+    "score": "9.5"
+  },
+  {
+    "img": "https://p1.meituan.net/moviemachine/eb3656da174dd67880dc465671d77a9a5982174.jpg@160w_220h_1e_1c",
+    "name": "复仇者联盟4：终局之战",
+    "star": "主演：小罗伯特·唐尼,克里斯·埃文斯,马克·鲁法洛",
+    "releasetime": "上映时间：2019-04-24",
+    "score": "9.1"
+  },
+  {
+    "img": "https://p0.meituan.net/moviemachine/081194992e014d3d7ff17aa7d0598179919881.jpg@160w_220h_1e_1c",
+    "name": "末代皇帝",
+    "star": "主演：尊龙,陈冲,彼得·奥图尔",
+    "releasetime": "上映时间：1987-10-04(日本)",
+    "score": "8.7"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/3d5db7fcda3d9f9df772fca36145c35483938.jpg@160w_220h_1e_1c",
+    "name": "西西里的美丽传说",
+    "star": "主演：莫妮卡·安娜·玛丽亚·贝鲁奇,朱塞佩·苏尔法罗,玛蒂尔德·皮亚纳",
+    "releasetime": "上映时间：2000-10-26(意大利)",
+    "score": "8.2"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/3ae02de0ce5504f12cb798b9d4ad0f07371622.jpg@160w_220h_1e_1c",
+    "name": "让子弹飞",
+    "star": "主演：姜文,周润发,葛优",
+    "releasetime": "上映时间：2010-12-16",
+    "score": "8.4"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/15983d78f1450ac2c73a7d4417536714337582.jpg@160w_220h_1e_1c",
+    "name": "本杰明·巴顿奇事",
+    "star": "主演：布拉德·皮特,凯特·布兰切特,塔拉吉·P·汉森",
+    "releasetime": "上映时间：2008-12-25(美国)",
+    "score": "8.8"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/b3defc07dfaa1b6f5b74852ce38a3f8f242792.jpg@160w_220h_1e_1c",
+    "name": "搏击俱乐部",
+    "star": "主演：爱德华·哈里森·诺顿,布拉德·皮特,海伦娜·伯翰·卡特",
+    "releasetime": "上映时间：1999-09-10(意大利)",
+    "score": "8.8"
+  },
+  {
+    "img": "https://p1.meituan.net/moviemachine/f7086730608eb956c7c27e9eb3b5cc415439205.jpg@160w_220h_1e_1c",
+    "name": "阿凡达",
+    "star": "主演：萨姆·沃辛顿,佐伊·索尔达娜,米歇尔·罗德里格兹",
+    "releasetime": "上映时间：2010-01-04",
+    "score": "9.4"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/32ae5d0f25996ec169def65459a0f52f386220.jpg@160w_220h_1e_1c",
+    "name": "飞屋环游记",
+    "star": "主演：爱德华·阿斯纳,乔丹·长井,鲍勃·彼德森",
+    "releasetime": "上映时间：2009-08-04",
+    "score": "8.9"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/ecb99c1c324d6a50bb6c3303e9d49488216865.jpg@160w_220h_1e_1c",
+    "name": "天使爱美丽",
+    "star": "主演：奥黛丽·塔图,马修·卡索维茨,吕菲斯",
+    "releasetime": "上映时间：2001-04-25(比利时)",
+    "score": "8.4"
+  },
+  {
+    "img": "https://p0.meituan.net/moviemachine/38cdf0810cad207ef0917abe4fa1e3ef5788447.jpg@160w_220h_1e_1c",
+    "name": "心灵奇旅",
+    "star": "主演：杰米·福克斯,蒂娜·菲,菲利西亚·拉斯海德",
+    "releasetime": "上映时间：2020-12-25",
+    "score": "9.2"
+  },
+  {
+    "img": "https://p1.meituan.net/movie/f86c7056a060f9144272d0ad7352fbd3302202.jpg@160w_220h_1e_1c",
+    "name": "美国往事",
+    "star": "主演：罗伯特·德尼罗,詹姆斯·伍兹,伊丽莎白·麦戈文",
+    "releasetime": "上映时间：2015-04-23",
+    "score": "9.0"
+  },
+  {
+    "img": "https://p1.meituan.net/movie/757329b238641ca206127656a5f4ec44205272.jpg@160w_220h_1e_1c",
+    "name": "飞越疯人院",
+    "star": "主演：杰克·尼科尔森,路易丝·弗莱彻,威尔·萨姆森",
+    "releasetime": "上映时间：1975-11-19(美国)",
+    "score": "8.8"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/28e51e8dac4bb132a037824227e54df9438711.jpg@160w_220h_1e_1c",
+    "name": "窃听风暴",
+    "star": "主演：乌尔里希·穆埃,塞巴斯蒂安·科赫,马蒂娜·格德克",
+    "releasetime": "上映时间：2006-03-23(德国)",
+    "score": "9.0"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/738840c7fc0d0fa3cd431f57f9d5a195337471.jpg@160w_220h_1e_1c",
+    "name": "美丽心灵",
+    "star": "主演：罗素·克劳,詹妮弗·康纳利,艾德·哈里斯",
+    "releasetime": "上映时间：2001-12-13(美国)",
+    "score": "8.8"
+  },
+  {
+    "img": "https://p1.meituan.net/moviemachine/508056769092059fe43a611b949f27d14863831.jpg@160w_220h_1e_1c",
+    "name": "大话西游之大圣娶亲",
+    "star": "主演：周星驰,朱茵,莫文蔚",
+    "releasetime": "上映时间：2014-10-24",
+    "score": "8.8"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/223c3e186db3ab4ea3bb14508c709400427933.jpg@160w_220h_1e_1c",
+    "name": "乱世佳人",
+    "star": "主演：费雯·丽,克拉克·盖博,奥利维娅·德哈维兰",
+    "releasetime": "上映时间：1939-12-15(美国)",
+    "score": "9.0"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/6cb23356f9d8e0b506349561c633310d102189.jpg@160w_220h_1e_1c",
+    "name": "一一",
+    "star": "主演：吴念真,金燕玲,李凯莉",
+    "releasetime": "上映时间：2017-07-28(中国台湾)",
+    "score": "8.9"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/6ad00fae7818c87d4f4f623ee8708c421368881.jpg@160w_220h_1e_1c",
+    "name": "消失的爱人",
+    "star": "主演：本·阿弗莱克,裴淳华,尼尔·帕特里克·哈里斯",
+    "releasetime": "上映时间：2014-09-26(美国)",
+    "score": "8.7"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/b6167a97f67993bfef5053f7c78cfdc81986322.jpg@160w_220h_1e_1c",
+    "name": "布达佩斯大饭店",
+    "star": "主演：拉尔夫·费因斯,托尼·雷沃罗利,西尔莎·罗南",
+    "releasetime": "上映时间：2014-06-14",
+    "score": "8.7"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/289f98ceaa8a0ae737d3dc01cd05ab052213631.jpg@160w_220h_1e_1c",
+    "name": "罗马假日",
+    "star": "主演：格利高里·派克,奥黛丽·赫本,埃迪·艾伯特",
+    "releasetime": "上映时间：1953-08-20(意大利)",
+    "score": "9.0"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/eec5ce0066f81a649c4f7d2ffd353f22272301.jpg@160w_220h_1e_1c",
+    "name": "蝴蝶效应",
+    "star": "主演：约翰·帕特里克·阿梅多利,罗根·勒曼,卡梅隆·布莱特",
+    "releasetime": "上映时间：2004-01-23(美国)",
+    "score": "8.7"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/14dce6c3d296dd12a1d0841def25162b321241.jpg@160w_220h_1e_1c",
+    "name": "海边的曼彻斯特",
+    "star": "主演：卡西·阿弗莱克,卢卡斯·赫奇斯,米歇尔·威廉姆斯",
+    "releasetime": "上映时间：2017-08-25",
+    "score": "8.8"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/621a8ea3736dfd97ca9cc05698d9bb71330853.jpg@160w_220h_1e_1c",
+    "name": "低俗小说",
+    "star": "主演：约翰·特拉沃尔塔,乌玛·瑟曼,塞缪尔·杰克逊",
+    "releasetime": "上映时间：1994-05-21(法国)",
+    "score": "8.7"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/32958f447a4319a9483c300b2b4e1adc375046.jpg@160w_220h_1e_1c",
+    "name": "爱在黎明破晓前",
+    "star": "主演：伊桑·霍克,朱莉·德尔佩,安德莉亚·埃克特",
+    "releasetime": "上映时间：1995-01-27(美国)",
+    "score": "8.7"
+  },
+  {
+    "img": "https://p1.meituan.net/movie/73c84696b0795c8d0c736857ebac8e951698003.jpg@160w_220h_1e_1c",
+    "name": "超脱",
+    "star": "主演：艾德里安·布洛迪,马西娅·盖伊·哈登,詹姆斯·肯恩",
+    "releasetime": "上映时间：2011-04-25(美国)",
+    "score": "8.7"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/f2a32a5369a76ee11ee37947a0003254629750.jpg@160w_220h_1e_1c",
+    "name": "海蒂和爷爷",
+    "star": "主演：阿努克·斯特芬 ,布鲁诺·甘茨,昆林·艾格匹",
+    "releasetime": "上映时间：2019-05-16",
+    "score": "9.5"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/2e43117ed0e932e71c0e52d7e88588df330131.jpg@160w_220h_1e_1c",
+    "name": "七宗罪",
+    "star": "主演：布拉德·皮特,摩根·弗里曼,格温妮斯·帕特洛",
+    "releasetime": "上映时间：1995-09-22(美国)",
+    "score": "8.7"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/0bd752877b95b8eac2d0704c783f372c4625354.jpg@160w_220h_1e_1c",
+    "name": "菊次郎的夏天",
+    "star": "主演：北野武,关口雄介,岸本 加世子",
+    "releasetime": "上映时间：2020-09-25",
+    "score": "8.8"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/13cc737c14e76278db116cf9210f697a371891.jpg@160w_220h_1e_1c",
+    "name": "釜山行",
+    "star": "主演：孔刘,郑有美,马东锡",
+    "releasetime": "上映时间：2016-05-13(法国)",
+    "score": "8.9"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/606de8f394d40dbcbb9b87943fec71a2130408.jpg@160w_220h_1e_1c",
+    "name": "无间道",
+    "star": "主演：刘德华,梁朝伟,黄秋生",
+    "releasetime": "上映时间：2003-09-05",
+    "score": "9.1"
+  },
+  {
+    "img": "https://p0.meituan.net/moviemachine/cd1906f2ec6a137a5902bfbcbbd5bafd1635014.jpg@160w_220h_1e_1c",
+    "name": "春光乍泄",
+    "star": "主演：张国荣,梁朝伟,张震",
+    "releasetime": "上映时间：1997-05-30(中国香港)",
+    "score": "9.2"
+  },
+  {
+    "img": "https://p1.meituan.net/movie/20b81c48788d6f73a07fec370baabad4103840.jpg@160w_220h_1e_1c",
+    "name": "爱在日落黄昏时",
+    "star": "主演：伊桑·霍克,朱莉·德尔佩,弗农·多布切夫",
+    "releasetime": "上映时间：2015-04-20",
+    "score": "8.7"
+  },
+  {
+    "img": "https://p1.meituan.net/movie/6a964e9cee699267053bd6a4bf6f2671195394.jpg@160w_220h_1e_1c",
+    "name": "剪刀手爱德华",
+    "star": "主演：约翰尼·德普,薇诺娜·瑞德,黛安娜·维斯特",
+    "releasetime": "上映时间：1990-12-06(美国)",
+    "score": "8.8"
+  },
+  {
+    "img": "https://p1.meituan.net/movie/76476c7f8c6de60df8da6efae60c3542399799.jpg@160w_220h_1e_1c",
+    "name": "心灵捕手",
+    "star": "主演：罗宾·威廉姆斯,马特·达蒙,明妮·德里弗",
+    "releasetime": "上映时间：1997-12-05(美国)",
+    "score": "8.4"
+  },
+  {
+    "img": "https://p1.meituan.net/movie/d5970e36c8868a4b746c80f3b3f8a404174615.jpg@160w_220h_1e_1c",
+    "name": "穿条纹睡衣的男孩",
+    "star": "主演：阿沙·巴特菲尔德,维拉·法梅加,大卫·休里斯",
+    "releasetime": "上映时间：2008-08-28(英国)",
+    "score": "9.0"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/107c99a629d860c6206189192e5d4308215794.jpg@160w_220h_1e_1c",
+    "name": "重庆森林",
+    "star": "主演：梁朝伟,王菲,金城武",
+    "releasetime": "上映时间：1994-07-14(中国香港)",
+    "score": "8.6"
+  },
+  {
+    "img": "https://p1.meituan.net/movie/389058d95ea9e464d695cd1a8c7e285f440657.jpg@160w_220h_1e_1c",
+    "name": "辩护人",
+    "star": "主演：宋康昊,郭度沅,吴达洙",
+    "releasetime": "上映时间：2013-12-18(韩国)",
+    "score": "8.8"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/19653e8af59cf473cd40f9ccc0658d93692304.jpg@160w_220h_1e_1c",
+    "name": "素媛",
+    "star": "主演：李甄,薛耿求,严智苑",
+    "releasetime": "上映时间：2013-10-02(韩国)",
+    "score": "9.1"
+  },
+  {
+    "img": "https://p1.meituan.net/movie/ba1ed511668402605ed369350ab779d6319397.jpg@160w_220h_1e_1c",
+    "name": "天空之城",
+    "star": "主演：寺田农,鹫尾真知子,龟山助清",
+    "releasetime": "上映时间：1992-05-01",
+    "score": "9.0"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/7d94792dee7ac5964bbcbcd676a98081261728.jpg@160w_220h_1e_1c",
+    "name": "控方证人",
+    "star": "主演：泰隆·鲍华,玛琳·黛德丽,查尔斯·劳顿",
+    "releasetime": "上映时间：1957-12-17(美国)",
+    "score": "8.5"
+  },
+  {
+    "img": "https://p1.meituan.net/movie/686c2de9e4f416e592d09cb62b32f274390992.jpg@160w_220h_1e_1c",
+    "name": "断背山",
+    "star": "主演：希斯·莱杰,杰克·吉伦哈尔,米歇尔·威廉姆斯",
+    "releasetime": "上映时间：2005-09-02(意大利)",
+    "score": "8.9"
+  },
+  {
+    "img": "https://p1.meituan.net/movie/d94e5c3054778f6f48bff3a813b0b7cd5300998.jpg@160w_220h_1e_1c",
+    "name": "波西米亚狂想曲",
+    "star": "主演：拉米·马雷克,本·哈迪,约瑟夫•梅泽罗",
+    "releasetime": "上映时间：2019-03-22",
+    "score": "9.4"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/55d9fcd5bc528636070c0307bac17037405534.jpg@160w_220h_1e_1c",
+    "name": "时空恋旅人",
+    "star": "主演：瑞秋·麦克亚当斯,多姆纳尔·格里森,比尔·奈伊",
+    "releasetime": "上映时间：2013-09-04(英国)",
+    "score": "8.9"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/09658109acfea0e248a63932337d8e6a4268980.jpg@160w_220h_1e_1c",
+    "name": "蝙蝠侠：黑暗骑士",
+    "star": "主演：克里斯蒂安·贝尔,希斯·莱杰,阿伦·伊克哈特",
+    "releasetime": "上映时间：2008-07-14(阿根廷)",
+    "score": "9.3"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/632e8039ca28809a6ab9d72673f388f3113539.jpg@160w_220h_1e_1c",
+    "name": "两杆大烟枪",
+    "star": "主演：杰森·弗莱明,德克斯特·弗莱彻,杰森•斯坦森",
+    "releasetime": "上映时间：1998-08-28(英国)",
+    "score": "8.7"
+  },
+  {
+    "img": "https://p1.meituan.net/movie/961036f05fdfdd68fecb70fa0c579ca0238954.jpg@160w_220h_1e_1c",
+    "name": "十二怒汉",
+    "star": "主演：亨利·方达,李·科布,马丁·鲍尔萨姆",
+    "releasetime": "上映时间：1957-04-13(美国)",
+    "score": "9.1"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/8834e6905cba927646661ed25e9c95d1136086.jpg@160w_220h_1e_1c",
+    "name": "猫鼠游戏",
+    "star": "主演：莱昂纳多·迪卡普里奥,汤姆·汉克斯,克里斯托弗·沃肯",
+    "releasetime": "上映时间：2003-04-11",
+    "score": "8.6"
+  },
+  {
+    "img": "https://p1.meituan.net/movie/611821c86367c6d9d0d663047407df59654543.jpg@160w_220h_1e_1c",
+    "name": "血战钢锯岭",
+    "star": "主演：安德鲁·加菲尔德,雨果·维文,卢克·布雷西",
+    "releasetime": "上映时间：2016-12-08",
+    "score": "9.3"
+  },
+  {
+    "img": "https://p1.meituan.net/movie/11d86a5c644840374c7860f98ef19183264645.jpg@160w_220h_1e_1c",
+    "name": "真爱至上",
+    "star": "主演：休·格兰特,比尔·奈伊,连姆·尼森",
+    "releasetime": "上映时间：2003-11-21(英国)",
+    "score": "8.6"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/e5e49dad53d8cfba7316d486e799345c395906.jpg@160w_220h_1e_1c",
+    "name": "奇迹男孩",
+    "star": "主演：雅各布·特瑞布雷,朱莉娅·罗伯茨,欧文·威尔逊",
+    "releasetime": "上映时间：2018-01-19",
+    "score": "9.2"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/36db8e805a15cc0475ebe3f0c9b56c9e782659.jpg@160w_220h_1e_1c",
+    "name": "网络谜踪",
+    "star": "主演：约翰·赵,米切尔·拉,黛博拉·梅辛",
+    "releasetime": "上映时间：2018-12-14",
+    "score": "8.6"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/0b1474181d53a328c2e87d018fa088b9241815.jpg@160w_220h_1e_1c",
+    "name": "大鱼",
+    "star": "主演：伊万·麦克格雷格,阿尔伯特·芬尼,杰西卡·兰格",
+    "releasetime": "上映时间：2003-12-04(美国)",
+    "score": "8.6"
+  },
+  {
+    "img": "https://p1.meituan.net/movie/ef83b1e2ef6fa1e6f736521a356b829a334336.jpg@160w_220h_1e_1c",
+    "name": "致命魔术",
+    "star": "主演：休·杰克曼,克里斯蒂安·贝尔,迈克尔·凯恩",
+    "releasetime": "上映时间：2006-10-17(意大利)",
+    "score": "8.8"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/389d81144eab106ac08c870bb4e366be547402.jpg@160w_220h_1e_1c",
+    "name": "钢琴家",
+    "star": "主演：艾德里安·布洛迪,艾米莉娅·福克斯,米哈乌·热布罗夫斯基",
+    "releasetime": "上映时间：2002-05-24(法国)",
+    "score": "8.9"
+  },
+  {
+    "img": "https://p1.meituan.net/movie/8d54378f5aa5891b27da166063fe5efe793583.jpg@160w_220h_1e_1c",
+    "name": "饮食男女",
+    "star": "主演：郎雄,吴倩莲,杨贵媚",
+    "releasetime": "上映时间：1994-08-03(美国)",
+    "score": "8.8"
+  },
+  {
+    "img": "https://p0.meituan.net/moviemachine/8265143afdbafba9d3ad7993bc3472e4508519.jpg@160w_220h_1e_1c",
+    "name": "模仿游戏",
+    "star": "主演：本尼迪克特·康伯巴奇,凯拉·奈特莉,马修·古迪",
+    "releasetime": "上映时间：2015-07-21",
+    "score": "9.3"
+  },
+  {
+    "img": "https://p0.meituan.net/movie/985156d0619734f9eacb45d15e2ba3231323113.jpg@160w_220h_1e_1c",
+    "name": "禁闭岛",
+    "star": "主演：莱昂纳多·迪卡普里奥,马克·鲁法洛,本·金斯利",
+    "releasetime": "上映时间：2010-02-13(德国)",
+    "score": "8.7"
+  }
+]
